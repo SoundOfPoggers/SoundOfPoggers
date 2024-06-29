@@ -1,5 +1,5 @@
 #
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundOfPoggers&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundOfPoggers&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundOfPoggers&layout=compact)
 
 
