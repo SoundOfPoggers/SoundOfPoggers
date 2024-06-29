@@ -1,9 +1,10 @@
 ## Introduction
 - SoftUni student
 - I mostly do stuff in private repositories
-- Stuff I use:<br>
-  [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,angular,npm,ts,html,css)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
+- Languages and Tools:<br>
+  [![My Skills](https://skillicons.dev/icons?i=angular,npm,ts,html,css,bootstrap,sass,selenium,java,cs,dotnet,gitlab,github&perline=8)](https://skillicons.dev)
+- Programs:<br>
+  [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
 
   ![:name](https://count.getloli.com/get/@:soundofpoggers?theme=rule34)
 
