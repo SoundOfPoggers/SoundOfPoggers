@@ -2,7 +2,7 @@
 - SoftUni student
 - I mostly do stuff in private repositories
 - Languages and Tools:<br>
-  [![My Skills](https://skillicons.dev/icons?i=angular,npm,ts,html,css,bootstrap,sass,selenium,java,cs,dotnet,gitlab,github&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,java,cs,dotnet,gitlab,github)](https://skillicons.dev)
 - Programs:<br>
   [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
 
