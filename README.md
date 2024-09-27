@@ -1,7 +1,7 @@
 ## About Me
-- Computer Science student in Sofia University "St. Kliment Ohridski"
+- Computer Science student at Sofia University 'St. Kliment Ohridski'
 - SoftUni student
-- I mostly do stuff in private repositories
+- Most of my work is in private repositories
 - Languages and Tools:<br>
   [![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,java,cs,dotnet,gitlab,github)](https://skillicons.dev)
 - Programs:<br>
