@@ -1,4 +1,5 @@
 ## About Me
+- Computer Science student in Sofia University "St. Kliment Ohridski"
 - SoftUni student
 - I mostly do stuff in private repositories
 - Languages and Tools:<br>
