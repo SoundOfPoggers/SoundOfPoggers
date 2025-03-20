@@ -6,4 +6,4 @@
   [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
 
 ## My Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundOfPoggers&show_icons=true&theme=dracula)<br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundOfPoggers&show_icons=true&theme=transparent)<br>
