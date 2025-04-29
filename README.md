@@ -1,7 +1,8 @@
 ## About Me
 - SoftUni student
-- Languages and Tools:<br>
-  [![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,java,cs,dotnet,gitlab,github)](https://skillicons.dev)
+- ฅ^•ﻌ•^ฅ
+- Stack:<br>
+  [![My Skills](https://skillicons.dev/icons?i=angular,ts,html,sass,java)](https://skillicons.dev)
 - Programs:<br>
   [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
 
